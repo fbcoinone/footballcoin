@@ -1235,6 +1235,43 @@ bool AppInitMain(boost::thread_group& threadGroup, CScheduler& scheduler)
     g_connman->AddNode("server-1.fbcoin.one");
     g_connman->AddNode("server-2.fbcoin.one");
     g_connman->AddNode("server-3.fbcoin.one");
+    g_connman->AddNode("server-4.fbcoin.one");
+    g_connman->AddNode("server-5.fbcoin.one");
+    g_connman->AddNode("server-6.fbcoin.one");
+    g_connman->AddNode("server-7.fbcoin.one");
+    g_connman->AddNode("server-8.fbcoin.one");
+    g_connman->AddNode("server-9.fbcoin.one");
+    g_connman->AddNode("server-10.fbcoin.one");
+    g_connman->AddNode("server-11.fbcoin.one");
+    g_connman->AddNode("server-12.fbcoin.one");
+    g_connman->AddNode("server-13.fbcoin.one");
+    g_connman->AddNode("server-14.fbcoin.one");
+    g_connman->AddNode("server-15.fbcoin.one");
+    g_connman->AddNode("server-16.fbcoin.one");
+    g_connman->AddNode("server-17.fbcoin.one");
+    g_connman->AddNode("server-18.fbcoin.one");
+    g_connman->AddNode("server-19.fbcoin.one");
+    g_connman->AddNode("server-20.fbcoin.one");
+    g_connman->AddNode("server-21.fbcoin.one");
+    g_connman->AddNode("server-22.fbcoin.one");
+    g_connman->AddNode("server-23.fbcoin.one");
+    g_connman->AddNode("server-24.fbcoin.one");
+    g_connman->AddNode("server-25.fbcoin.one");
+    g_connman->AddNode("server-26.fbcoin.one");
+    g_connman->AddNode("server-27.fbcoin.one");
+    g_connman->AddNode("server-28.fbcoin.one");
+    g_connman->AddNode("server-29.fbcoin.one");
+    g_connman->AddNode("server-30.fbcoin.one");
+
+
+
+
+
+
+
+
+
+
 
 
 

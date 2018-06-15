@@ -1,9 +1,6 @@
 FootBallCoin Core integration/staging tree
 =====================================
-
-[![Build Status](https://travis-ci.org/footballcoin-project/footballcoin.svg?branch=master)](https://travis-ci.org/footballcoin-project/footballcoin)
-
-https://footballcoin.org
+https://fbcoin.one
 
 What is FootBallCoin?
 ----------------
@@ -15,7 +12,7 @@ out collectively by the network. FootBallCoin Core is the name of open source
 software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
-the FootBallCoin Core software, see [https://footballcoin.org](https://footballcoin.org).
+the FootBallCoin Core software, see [https://fbcoin.one](https://fbcoin.one).
 
 License
 -------
@@ -27,14 +24,11 @@ Development Process
 -------------------
 
 The `master` branch is regularly built and tested, but is not guaranteed to be
-completely stable. [Tags](https://github.com/footballcoin-project/footballcoin/tags) are created
+completely stable. [Tags](https://github.com/fbcoinone/footballcoin/tags) are created
 regularly to indicate new official, stable release versions of FootBallCoin Core.
 
 The contribution workflow is described in [CONTRIBUTING.md](CONTRIBUTING.md).
 
-The developer [mailing list](https://groups.google.com/forum/#!forum/footballcoin-dev)
-should be used to discuss complicated or controversial changes before working
-on a patch set.
 
 Developer IRC can be found on Freenode at #footballcoin-dev.
 
